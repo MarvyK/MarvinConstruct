@@ -1,0 +1,18 @@
+    /*Place your JavaScript here to run when the page is fully displayed*/
+
+    jQuery("#"+ this.questionId+"  td.groupsContainerTd").css({'border':'none', "background-image":"url(https://umich.qualtrics.com/CP/Graphic.php?IM=IM_7WYCgAmkBIQtcUK;)",'background-repeat': 'no-repeat',
+    ' background-attachment': 'fixed',
+    'background-position': 'center',});
+
+    jQuery("#"+ this.questionId+"  td.groupsContainerTd > div > div  > h2 ").hide();
+
+    jQuery("#"+ this.questionId+"  td.groupsContainerTd > div:eq(0) > div  ").css({'border':'2px solid red','width':'50px','margin-left':'117px !important;','margin-top':'21px', 'max-height':'50px'});
+
+    jQuery("#"+ this.questionId+"  td.groupsContainerTd > div:eq(1) > div  ").css({'border':'2px solid red', "background-image":"url()",'background-repeat': 'no-repeat',
+    ' background-attachment': 'fixed',
+    'background-position': 'center','background-size':'contain'});
+
+
+    jQuery("#"+ this.questionId+"  td.groupsContainerTd > div:eq(2) > div  ").css({'border':'none', "background-image":"url()",'background-repeat': 'no-repeat',
+    ' background-attachment': 'fixed',
+    'background-position': 'center' ,'background-size':'contain'});
