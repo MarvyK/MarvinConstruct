@@ -1,5 +1,4 @@
-    /*Place your JavaScript here to run when the page is fully displayed*/
-
+    
     jQuery("#"+ this.questionId+"  td.groupsContainerTd").css({'border':'none', "background-image":"url(https://umich.qualtrics.com/CP/Graphic.php?IM=IM_7WYCgAmkBIQtcUK;)",'background-repeat': 'no-repeat',
     ' background-attachment': 'fixed',
     'background-position': 'center',});
