@@ -1,0 +1,12 @@
+<!-- Custom CorpU styling for Qualtrics exercises -->
+/* Place your CSS here */
+.Skin .QuestionBody {background-color:#EEE;}
+#Questions {background-color:#EEE;}
+body legend {background-color:#EEE;}
+#SkinContent {background-color:#EEE;}
+#SurveyEngineBody {background-color:#EEE;}
+#PushStickyFooter {background-color:#EEE;}
+#Footer {background-color:#EEE;}
+.Skin #Logo {display: none!important;}
+.Skin #LogoContainer {background-color:#EEE;}
+.Skin #Buttons {margin-top:0px;}
